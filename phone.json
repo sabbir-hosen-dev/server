@@ -1,0 +1,40 @@
+{
+  "phones": [
+    {
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "price": 999,
+      "specs": {
+        "screenSize": "6.1 inches",
+        "battery": "3279 mAh",
+        "camera": "48 MP",
+        "processor": "A16 Bionic",
+        "storageOptions": ["128GB", "256GB", "512GB"]
+      }
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "price": 799,
+      "specs": {
+        "screenSize": "6.1 inches",
+        "battery": "3900 mAh",
+        "camera": "50 MP",
+        "processor": "Snapdragon 8 Gen 2",
+        "storageOptions": ["128GB", "256GB", "512GB"]
+      }
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 8",
+      "price": 699,
+      "specs": {
+        "screenSize": "6.2 inches",
+        "battery": "4355 mAh",
+        "camera": "50 MP",
+        "processor": "Google Tensor G3",
+        "storageOptions": ["128GB", "256GB"]
+      }
+    }
+  ]
+}
